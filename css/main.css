@@ -1,0 +1,13 @@
+body, html, main {
+  background: lightgrey;
+  color: black;
+}
+
+body > div {
+  font-size: 25px;
+  padding: 0 50px;
+}
+
+.navbar {
+  border-radius: 0;
+}
